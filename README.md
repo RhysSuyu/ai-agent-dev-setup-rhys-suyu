@@ -16,7 +16,7 @@
 3. Take a screenshot showing the output (should display v18+ or higher)
 
 **Screenshot:**
-![Node](mcp-configs/images/node.png)
+![Node](mcp-configs/screenshots/node.png)
 ```
 [v24.14.0]
 ```
@@ -31,7 +31,7 @@
 3. Take a screenshot showing the output
 
 **Screenshot:**
-![Git Version](mcp-configs/images/git.png)
+![Git Version](mcp-configs/screenshots/git.png)
 ```
 [git version 2.53.0.windows.1]
 ```
@@ -50,7 +50,7 @@
    - File open for context
 
 **Screenshot:**
-![VS Code Insider with Copilot](mcp-configs/images/vswithcopilot.png)
+![VS Code Insider with Copilot](mcp-configs/screenshots/vswithcopilot.png)
 
 ---
 

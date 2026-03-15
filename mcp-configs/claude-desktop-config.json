@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "rolldice": {
+      "command": "node",
+      "args": ["path/to/rolldice-server/index.js"]
+    },
+    "bootcamp-ai-agent": {
+      "command": "node",
+      "args": ["path/to/bootcamp-ai-agent/index.js"]
+    },
+    "calendar-booking": {
+      "command": "node",
+      "args": ["path/to/calendar-booking/index.js"]
+    },
+    "github": {
+      "command": "node",
+      "args": ["path/to/github-mcp/index.js"],
+      "env": {
+        "GITHUB_TOKEN": "your-token-here"
+      }
+    }
+  }
+}
